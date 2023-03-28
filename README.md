@@ -1,5 +1,9 @@
 # iPhone Calculator
-iPhone calculator in HTML, CSS and Javascript.
+
+**iPhone calculator** in HTML, CSS and Javascript.
+
+## Website
+You can visit my **iPhone Calculator** project [here](https://itzbluesword.github.io/iPhone-Calculator/).
 
 ## Programming languages used:
 
